@@ -1,4 +1,6 @@
-### Hi there 👋
+Türk Dama oyunum Microsoft Store'da yayınlanmıştır.✨
+
+https://www.microsoft.com/store/apps/9NZ067RSDNRV
 
 <!--
 **alperali/alperali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
