@@ -1,4 +1,5 @@
-[Türk Dama](https://github.com/alperali/dama) oyunum Google Play ve Microsoft Store'da yayınlanmıştır.✨
+<!-- [Türk Dama](https://github.com/alperali/dama) oyunum Google Play ve Microsoft Store'da yayınlanmıştır. -->
+✨
 
 <!--
 **alperali/alperali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
